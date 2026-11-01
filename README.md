@@ -113,113 +113,6 @@ Content Creation  ████████████░░░░░░░░  
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎬 MovieMind
-
-**AI-powered movie recommendation web application**
-
-- Java
-- Servlets / JSP
-- MySQL
-- Recommendation System
-- User Preferences
-- Ratings & Watchlist
-
-<a href="https://github.com/rajusingh0503">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI / ML Projects
-
-**Exploring practical AI & Machine Learning**
-
-- Python
-- Machine Learning
-- Data Analysis
-- Recommendation Systems
-- Model experimentation
-
-<a href="https://github.com/rajusingh0503?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20Repositories-0e75b6?style=for-the-badge&logo=github" alt="Explore Repositories"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💻 DSA & Programming
-
-**Problem solving and algorithm practice**
-
-- Data Structures
-- Algorithms
-- C / C++
-- Java
-- Competitive Programming
-
-<a href="https://github.com/rajusingh0503?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20Code-181717?style=for-the-badge&logo=github" alt="Explore Code"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🎨 Content & Creative Work
-
-**Technology + creativity**
-
-- Video Editing
-- Content Creation
-- Photography
-- Personal Branding
-- Digital Media
-
-</td>
-</tr>
-</table>
-
----
-
-# 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-181717?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-</p>
-
----
-
-# 💡 What I Want to Build
-
-```text
-01  Real-world software projects
-02  AI-powered applications
-03  Useful developer tools
-04  Open-source contributions
-05  Creative technology projects
-06  A strong developer + creator portfolio
-```
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
@@ -273,3 +166,34 @@ Content Creation  ████████████░░░░░░░░  
     <img src="https://img.shields.io/badge/⭐%20Follow%20me%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
   </a>
 </p>
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-181717?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+</p>
+
+---
+
+# 💡 What I Want to Build
+
+```text
+01  Real-world software projects
+02  AI-powered applications
+03  Useful developer tools
+04  Open-source contributions
+05  Creative technology projects
+06  A strong developer + creator portfolio
+```
+
+---
+
