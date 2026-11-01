@@ -36,16 +36,7 @@ I enjoy working at the intersection of **software development, AI/ML, problem so
 > **Learn → Build → Share → Improve**
 ---
 
-## 🧠 Current Focus
 
-```text
-Java              ███████████████░░░░░  Learning
-Data Structures   ██████████████░░░░░░  Learning
-DBMS / SQL        ███████████████░░░░░  Learning
-Python            ████████████░░░░░░░░  Learning
-AI / ML           ██████████░░░░░░░░░░  Exploring
-Content Creation  ████████████░░░░░░░░  Creating
-```
 ---
 ## 🐍 Contribution Snake
 
@@ -63,6 +54,17 @@ Content Creation  ████████████░░░░░░░░  
 <br>
 <hr>
 <br>
+
+## 🧠 Current Focus
+
+```text
+Java              ███████████████░░░░░  Learning
+Data Structures   ██████████████░░░░░░  Learning
+DBMS / SQL        ███████████████░░░░░  Learning
+Python            ████████████░░░░░░░░  Learning
+AI / ML           ██████████░░░░░░░░░░  Exploring
+Content Creation  ████████████░░░░░░░░  Creating
+```
 # 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
