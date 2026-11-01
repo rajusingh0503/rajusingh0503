@@ -47,7 +47,22 @@ AI / ML           ██████████░░░░░░░░░░  
 Content Creation  ████████████░░░░░░░░  Creating
 ```
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danishcodepy/danishcodepy/output/github-snake.svg" />
+</p>
+
+
+
+</td>
+
+</tr>
+</table>
+
+<br>
+<hr>
+<br>
 # 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
