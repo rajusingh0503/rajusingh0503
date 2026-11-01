@@ -153,20 +153,6 @@ Content Creation  ████████████░░░░░░░░  
 
 ---
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
-
-<p align="center">
-  <i>Building skills. Building projects. Building the future.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rajusingh0503">
-    <img src="https://img.shields.io/badge/⭐%20Follow%20me%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
-  </a>
-</p>
-
 ---
 
 # 📚 Currently Learning
@@ -197,3 +183,16 @@ Content Creation  ████████████░░░░░░░░  
 
 ---
 
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  <i>Building skills. Building projects. Building the future.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rajusingh0503">
+    <img src="https://img.shields.io/badge/⭐%20Follow%20me%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
+  </a>
+</p>
