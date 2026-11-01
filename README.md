@@ -79,40 +79,6 @@ Content Creation  ████████████░░░░░░░░  
 </p>
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajusingh0503&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajusingh0503&layout=compact&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajusingh0503&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajusingh0503&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajusingh0503&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
@@ -154,6 +120,40 @@ Content Creation  ████████████░░░░░░░░  
 ---
 
 ---
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajusingh0503&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajusingh0503&layout=compact&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajusingh0503&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajusingh0503&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajusingh0503&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+
 
 # 📚 Currently Learning
 
