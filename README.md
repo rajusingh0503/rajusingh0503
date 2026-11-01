@@ -31,13 +31,9 @@ I'm a **B.Tech CSE (AI & ML) student** passionate about building practical softw
 I enjoy working at the intersection of **software development, AI/ML, problem solving and content creation**.
 
 - 🚀 Building projects to turn concepts into real-world applications
-- 🧠 Improving my **problem-solving and software development skills**
 - 🎨 Exploring **content creation, video editing & personal branding**
-- 🤝 Open to collaborating on **AI/ML, Java, Web Development & Open Source**
-- 🌱 Always learning, building and experimenting
-
+- 🤝 Open to collaborating on Content & Project & Open Source**
 > **Learn → Build → Share → Improve**
-
 ---
 
 ## 🧠 Current Focus
@@ -48,10 +44,8 @@ Data Structures   ██████████████░░░░░░  
 DBMS / SQL        ███████████████░░░░░  Learning
 Python            ████████████░░░░░░░░  Learning
 AI / ML           ██████████░░░░░░░░░░  Exploring
-Web Development   ██████████░░░░░░░░░░  Building
 Content Creation  ████████████░░░░░░░░  Creating
 ```
-
 ---
 
 # 🛠️ Tech Stack
