@@ -30,8 +30,6 @@ I'm a **B.Tech CSE (AI & ML) student** passionate about building practical softw
 
 I enjoy working at the intersection of **software development, AI/ML, problem solving and content creation**.
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering (AI & ML)**
-- 💻 Currently focused on **Java, DSA, DBMS, SQL, Python & AI/ML**
 - 🚀 Building projects to turn concepts into real-world applications
 - 🧠 Improving my **problem-solving and software development skills**
 - 🎨 Exploring **content creation, video editing & personal branding**
